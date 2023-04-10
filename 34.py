@@ -11,4 +11,7 @@ def print_name(name):
     print(name)
 
 
+def print_age(age):
+    print(age)
+
 print(check_if_url_up("https://github.com"))
