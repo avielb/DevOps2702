@@ -7,5 +7,16 @@ def check_if_url_up(url):
         return True
 
 
+def print_name(name):
+    print(name)
+
+
+def print_age(age):
+    print(age)
+
+
+def print_pet(pet):
+    print(pet)
+
 
 print(check_if_url_up("https://github.com"))
